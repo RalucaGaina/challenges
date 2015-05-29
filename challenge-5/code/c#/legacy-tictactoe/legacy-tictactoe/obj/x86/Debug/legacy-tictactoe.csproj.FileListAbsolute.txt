@@ -1,0 +1,5 @@
+e:\challenges\challenge-5\code\c#\legacy-tictactoe\legacy-tictactoe\bin\Debug\legacy-tictactoe.exe
+e:\challenges\challenge-5\code\c#\legacy-tictactoe\legacy-tictactoe\bin\Debug\legacy-tictactoe.pdb
+e:\challenges\challenge-5\code\c#\legacy-tictactoe\legacy-tictactoe\obj\x86\Debug\legacy-tictactoe.csprojResolveAssemblyReference.cache
+e:\challenges\challenge-5\code\c#\legacy-tictactoe\legacy-tictactoe\obj\x86\Debug\legacy-tictactoe.exe
+e:\challenges\challenge-5\code\c#\legacy-tictactoe\legacy-tictactoe\obj\x86\Debug\legacy-tictactoe.pdb
